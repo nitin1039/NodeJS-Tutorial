@@ -1,0 +1,9 @@
+This is the new file and we are here creating some new text.
+
+
+
+
+important notes for node js
+
+for breaking the connection from the server user ctrl+c
+for moving one parent folder to another child folder use: "cd node_js_lecture_2" like this
